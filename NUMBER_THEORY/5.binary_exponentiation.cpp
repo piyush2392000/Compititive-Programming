@@ -3,6 +3,7 @@
 #include <climits>
 using namespace std;
 
+
 // tc = O(log(N))
 
 int bin_exp(int b, int p){
